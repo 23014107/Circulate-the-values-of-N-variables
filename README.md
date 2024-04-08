@@ -1,4 +1,8 @@
 # Circulate-the-values-of-N-variables
+NAME: RAMYA.P
+REG NO: 212223240137
+DEPT:AIML
+
 ## Aim:
 To write a python program to circulate the n variables using function concept
 ## Equipment’s required:

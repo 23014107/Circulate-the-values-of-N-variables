@@ -26,6 +26,7 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-![output](/img%202.png)
+![Screenshot 2024-04-12 091853](https://github.com/23014107/Circulate-the-values-of-N-variables/assets/151625620/c514193e-8c5b-484b-9b76-48b86de9567b)
+
 ## Result:
 The output was verified successfully
